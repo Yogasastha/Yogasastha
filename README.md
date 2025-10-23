@@ -1,4 +1,4 @@
-## Hey there!! 👋 I'm Sastha
+## Hey there!! 👋 I'm Sastha 
 
 🎓 Computer Science Engineering student at NIET Coimbatore.  
 🌟 Exploring Java, HTML, CSS & JavaScript 

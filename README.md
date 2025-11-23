@@ -5,7 +5,7 @@
     
 🌟 Exploring Java, HTML, CSS & JavaScript        
 - I’m currently learning React JS      
-🚀 Eager learner, constantly diving into new technologies
+🚀 Eager learner, constantly diving into new technologies 
 
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/yogasastha) to discuss tech, projects, or just say hello! 😊

@@ -3,7 +3,7 @@
 
 🎓 Computer Science Engineering student at NIET Coimbatore.        
        
-🌟 Exploring Java, HTML, CSS & JavaScript    
+🌟 Exploring Java, HTML, CSS & JavaScript     
 - I’m currently learning React JS       
 🚀 Eager learner, constantly diving into new technologies 
   
